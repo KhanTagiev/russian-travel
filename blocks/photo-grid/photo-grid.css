@@ -1,0 +1,7 @@
+.photo-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  max-width: 100%;
+  gap: 16px;
+  margin: 92px 48px 0 48px;
+}

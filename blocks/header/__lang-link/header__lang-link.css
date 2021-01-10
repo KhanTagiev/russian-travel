@@ -1,14 +1,15 @@
 .header__lang-link {
-  margin-right: 18px;
+  margin: 18px 18px auto 0;
   color: #fff;
   font-size: 24px;
   line-height: 28px;
   transition: opacity 0.5 easy 0s;
+  text-decoration: none;
 }
 
 .header__lang-link:last-child {
-  margin: 0;
-  text-decoration: none;
+  margin-right: 0;
+
 }
 
 .header__lang-link:hover {
