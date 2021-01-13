@@ -12,9 +12,8 @@
     margin: 88px 24px 0 24px;
   }
 }
-
 @media (max-width:760px) {
   .places {
     margin: 64px 16px 0 16px;
+  }
 }
-
