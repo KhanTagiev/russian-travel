@@ -6,8 +6,25 @@
   text-decoration: none;
   width: 100%;
   height: 100%;
+  position: relative;
   z-index: 2;
-  position: absolute;
-  top: 0;
-  left: 0;
+  min-height: 740px;
+}
+
+@media (max-width: 1183px) {
+  .cover__link {
+    min-height: 640px;
+  }
+}
+
+@media (max-width: 980px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}
+
+@media (max-width: 480px) {
+  .cover__link {
+    min-height: 200px;
+  }
 }
