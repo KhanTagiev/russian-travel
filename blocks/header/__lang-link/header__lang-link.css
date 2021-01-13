@@ -16,7 +16,7 @@
   opacity: 0.8;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 760px) {
   .header__lang-link {
     margin: 14px 18px auto 0;
     color: #fff;

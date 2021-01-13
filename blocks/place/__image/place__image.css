@@ -2,7 +2,7 @@
   width: 100%;
 }
 
-@media (max-width:767px) {
+@media (max-width:760px) {
   .place__image {
     width: calc(100% + 32px);
     margin:0 -16px 0 -16px;

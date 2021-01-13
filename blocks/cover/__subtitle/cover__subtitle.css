@@ -6,3 +6,18 @@
   text-align: center;
   margin: 0;
 }
+
+@media (max-width: 650px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 18px;
+    max-width: 260px;
+  }
+}
+
+@media (max-width: 420px) {
+  .cover__subtitle {
+    font-size: 14px;
+    line-height: 16px;
+  }
+}

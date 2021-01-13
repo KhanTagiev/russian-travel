@@ -5,20 +5,15 @@
   align-items: center;
 }
 
-@media (max-width:1279px) {
+@media (max-width:1200px) {
   .lead {
     margin: 48px 48px 0 48px;
   }
 }
 
-@media (max-width:1023px) {
+@media (max-width: 980px) {
   .lead {
     margin: 48px 0 0 0;
   }
 }
 
-@media (max-width:1023px) {
-  .lead {
-    margin: 48px 0 0 0;
-  }
-}

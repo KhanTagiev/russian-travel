@@ -2,20 +2,20 @@
   margin: 92px 148px 0 148px;
 }
 
-@media (max-width: 1279px) {
+@media (max-width: 1200px) {
   .intro {
     margin-left: 48px;
     margin-right: 48px;
   }
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 980px) {
   .intro {
     margin: 88px 24px 0 24px;
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 760px) {
   .intro {
     margin: 64px 16px 0 16px;
   }
