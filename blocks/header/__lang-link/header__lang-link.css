@@ -1,15 +1,10 @@
 .header__lang-link {
-  margin: 18px 18px auto 0;
+  margin-left: 18px;
   color: #fff;
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
   transition: opacity 0.8s ease 0s;
-}
-
-.header__lang-link:last-child {
-  margin-right: 0;
-
 }
 
 .header__lang-link:hover {
@@ -18,8 +13,6 @@
 
 @media (max-width: 760px) {
   .header__lang-link {
-    margin: 14px 18px auto 0;
-    color: #fff;
     font-size: 18px;
     line-height: 20px;
   }
